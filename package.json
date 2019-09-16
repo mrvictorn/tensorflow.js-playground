@@ -1,0 +1,14 @@
+{
+  "name": "mobilenet",
+  "version": "1.0.0",
+  "description": "Mobilenet via Tensorflow.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Mobilenet"
+  ],
+  "author": "Viktor Nesterenko <v@bentify.com>",
+  "license": "ISC"
+}
